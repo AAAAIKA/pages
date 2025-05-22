@@ -47,4 +47,4 @@ docs/index.md から docs/fuga/hoge.md にリンクを貼る場合
 
 docs/index.md で docs/hoge.png の画像を表示したい場合
 
-![ｴｯﾎｴｯﾎ](./menfukurou.png)
+![ｴｯﾎｴｯﾎ](./hoge.png)
